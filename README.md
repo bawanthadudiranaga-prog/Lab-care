@@ -87,7 +87,9 @@ Booking history integration
       Modal components for login/registration
       Material Symbols icons integration
       Consistent color scheme and typography
-📁 Project Structure
+                        📁 Project Structure
+
+   
           LTBS/
           ├── src/
           │   ├── components/
@@ -110,6 +112,7 @@ Booking history integration
           ├── package.json                 # Dependencies and scripts
           ├── vite.config.js              # Vite configuration
           └── README.md                   # Project documentation
+   
 👥 Contributors
           Group_01 - Software Process Modeling Assignment
           
